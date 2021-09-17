@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVM_Practice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="dddd">HOME</string>
+    <string name="dddddww">PROFILE</string>
+    <string name="move">MOVE</string>
+    <string name="detail_fragment">Detail Fragment</string>
+</resources>
